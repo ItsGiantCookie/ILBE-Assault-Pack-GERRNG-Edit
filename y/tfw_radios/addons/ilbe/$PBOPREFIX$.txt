@@ -1,0 +1,6 @@
+//<'ilbe.pbo' properties via Mikero's dos tools, dll version 9.45>
+prefix=y\tfw_radios\addons\ilbe;
+Mikero=DePbo.dll;
+version=00000000;
+//PboType=Arma Addon;
+//</properties>

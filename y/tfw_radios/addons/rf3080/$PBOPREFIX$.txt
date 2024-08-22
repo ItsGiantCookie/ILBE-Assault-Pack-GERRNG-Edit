@@ -1,0 +1,6 @@
+//<'rf3080.pbo' properties via Mikero's dos tools, dll version 9.45>
+prefix=y\tfw_radios\addons\rf3080;
+Mikero=DePbo.dll;
+version=00000000;
+//PboType=Arma Addon;
+//</properties>
