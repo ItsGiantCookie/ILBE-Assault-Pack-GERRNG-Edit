@@ -28,8 +28,8 @@ Simply download the mod from the Steam Workshop.
 
 ## Contents
 * 2 of Raspus Original Skins licensed under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike).
-* 2 of Yethe Samartaks Skins (Felck- and Tropentran variants) licensed under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). [Workshop-Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1957483662)
-* Many variations of Yethe Samrtaks Skins with Patches for my unit.
+* 2 of Yethe Samartakas Skins (Felck- and Tropentran variants) licensed under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike). [Workshop-Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1957483662)
+* Many variations of Yethe Samartakas Skins with Patches for my unit.
 
 ## Contributors
 * **Grezvany13**: Main developer of the Rewrite version and reason for this repos existence.
