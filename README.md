@@ -34,6 +34,7 @@ Simply download the mod from the Steam Workshop.
 ## Contributors
 * **Grezvany13**: Main developer of the Rewrite version and reason for this repos existence.
 * **Raspu**: Created the initial ILBE Assault Pack mod (models, textures and script)
+* **Yethe Samartakas**: Created the base for the modified variants of the Skins.
 
 ## Bugs
 Ask Grezvany13.
@@ -45,3 +46,5 @@ At this moment it's not possible to contribute to the original mod.
 [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
 
 This mod contains models, textures and scripts by **Raspu** which are released under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike).
+This mod scripts by **Grezvany13** which are released under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike).
+This mod textures by **Yethe Samartakas** which are released under [(APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike).
